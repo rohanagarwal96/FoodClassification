@@ -2,7 +2,12 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 *.pth
+*.h5
+kaggle.json
 training_log.csv
+venv/
+.venv/
+env/
 figures/
 .env
 *.egg-info/
